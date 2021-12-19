@@ -69,7 +69,7 @@ class untuk menampilkan daftar nilai mahasiswa, dengan ketentuan :
 
     #### Output lihat()
 
-    ![img] screenshot/l.png
+    ![Gambar 1](screenshot/l.png)
 
 6. Menambah data ( **tambah()** )
     * Menginput nim, nama, nilai tugas, nilai uts dan nilai uas.
@@ -93,7 +93,7 @@ class untuk menampilkan daftar nilai mahasiswa, dengan ketentuan :
 
     #### Output tambah()
 
-    ![img] screenshot/t.png
+    ![Gambar 2](screenshot/t.png)
 
 7. Mengubah data ( **ubah()** )
     * Menginput nama, kemudian input data yang ingin diubah. 
@@ -118,7 +118,7 @@ class untuk menampilkan daftar nilai mahasiswa, dengan ketentuan :
 
     #### Output ubah()
 
-    ![img] screenshot/u.png
+    ![Gambar 3](screenshot/u.png)
 
 8. Menghapus data ( **hapus()** )
     * Menginput nama, setelah nama diinput maka data yang lainnya akan ikut terhapus sesuai dengan nama yang diinputkan.
@@ -140,9 +140,9 @@ class untuk menampilkan daftar nilai mahasiswa, dengan ketentuan :
 
     #### Output hapus()
 
-    ![img] screenshot/h.png
+    ![Gambar 4](screenshot/h.png)
 
-    ![img] screenshot/l-2.png
+    ![Gambar 5](screenshot/l-2.png)
 
 9. Menggunakan perulangan uncountable, yang artinya selama statement bernilai "True" maka program akan terus berjalan. Jika statementnya "False" maka program terhenti.
 
