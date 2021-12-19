@@ -2,7 +2,7 @@
 
 ## Tugas Pratikum
 
->Buat program sederhana dengan mengaplikasikan penggunaan class. Buatlah
+Buat program sederhana dengan mengaplikasikan penggunaan class. Buatlah
 class untuk menampilkan daftar nilai mahasiswa, dengan ketentuan :
 * Method **tambah()** untuk menambah data
 * Method **tampilkan()** untuk menampilkan data
